@@ -35,20 +35,19 @@ h1 {
   height: 70vh;
 }
 
-/*.item {
+.item {
   flex: 1;
   height: 100%;
   background-position: center;
   background-size: cover;
   background-repeat: none;
   transition: flex 0.8s ease;
-
-  &:hover{
+  &:hover {
     flex: 7;
   }
 }
 
-.item-1 {
+/*.item-1 {
   background-image: url('https://images.unsplash.com/photo-1499198116522-4a6235013d63?auto=format&fit=crop&w=1233&q=80');
 }
 
